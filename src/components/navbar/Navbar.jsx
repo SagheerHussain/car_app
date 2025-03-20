@@ -8,13 +8,13 @@ import { FaShoppingCart, FaUserAlt } from "react-icons/fa";
 const Navbar = () => {
   const navItems = [
     { name: "Home", link: "/", active: true },
-    { name: "About", link: "/about", active: false },
-    { name: "Cars", link: "/cars", active: false },
-    { name: "Services", link: "/services", active: false },
-    { name: "Inventory", link: "/inventory", active: false },
-    { name: "Events", link: "/events", active: false },
-    { name: "Blogs", link: "/blogs", active: false },
-    { name: "Contact Us", link: "/contact-us", active: false },
+    { name: "About", link: "/", active: false },
+    { name: "Cars", link: "/", active: false },
+    { name: "Services", link: "/", active: false },
+    { name: "Inventory", link: "/", active: false },
+    { name: "Events", link: "/", active: false },
+    { name: "Blogs", link: "/", active: false },
+    { name: "Contact Us", link: "/", active: false },
   ];
 
   return (
