@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "../../../components/layout/Layout";
-import BannerImg from "../../../assets/CarBanner.png";
+import BannerImg from "../../../assets/carbanner.png";
 import { GoArrowUpRight } from "react-icons/go";
 
 const Banner = () => {
