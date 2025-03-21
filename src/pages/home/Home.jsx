@@ -9,7 +9,7 @@ import Blogs from "./blogs/Blogs";
 
 const Home = () => {
   return (
-    <div className="w-full space-y-16 pb-12">
+    <div className="w-full space-y-16 pb-12 mx-0-auto">
       {/* {Hero} */}
       <Hero />
 
